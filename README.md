@@ -9,7 +9,7 @@ I used [Color - Primer](https://primer.style/brand/primitives/color/) found on [
 1. Copy the contents of schemes/ghdark.json into your `scheme` section in settings.json of Windows Terminal
 2. Change `colorScheme` on `profiles` section to "GitHub Dark"
 
-```json
+```jsonc
 // settings.json of Windows Terminal
 {
     "profiles": 
